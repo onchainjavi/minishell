@@ -1,0 +1,10 @@
+a.out
+minishell
+/objs
+*.o
+*.d
+*.txt
+/test/
+.DS_Store
+/.vscode/
+/mpanic/
