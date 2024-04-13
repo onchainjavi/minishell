@@ -16,7 +16,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img width="700" alt="minishell_screenshot" src="https://github.com/onchainjavi/minishell/assets/19575860/82977658-8af7-4e6e-98bf-af69bb83e507">
+<img width="700" alt="minishell_screenshot" src="https://github.com/ferri17/minishell/assets/19575860/82977658-8af7-4e6e-98bf-af69bb83e507">
 
 **Minishell is a Unix shell** really similar to bash but with some reduced functionalities. The project is written from scratch in C.
 Some of the functionalities are:
@@ -77,4 +77,4 @@ Run the program:
 
 <!-- Authors -->
 ## Authors
-This project is written by @jungw and me as part of 42 School core curriculum. I was mainly focused on the lexer(tokenizer), parser, and executor, while Adria focused on the built-ins, expansor, and signals.
+This project is cowritten by @jungwhele and me as part of 42 School core curriculum. I worked on the executer and redirections part, while Juan focused on the lexer/parser/expansor and signals part. Finally we both worked on the built-ins.
